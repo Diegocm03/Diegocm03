@@ -20,9 +20,4 @@ This is the portfolio of all class assignments I have completed in Data Analytic
    - [A5 Regression Analysis](https://colab.research.google.com/drive/1XugkD7XKDH20SVHbW6iyVJpYmRFNML-F?authuser=2)
 
 6. **Module 6: Clustering and Segmentation**
-   - [A6 Segmentation (retail transactions and behavioral segmentation)](https://colab.research.google.com/drive/1t18yewxXmlPQx861vljGDk2jIjOkt78L?authuser=2)
-   
-7. **Module 7: Use GitHub to Create Your Assignment Portfolio**
-    - 
-   A7 [List Your Data Analytics Skills](https://github.com/alexanderresearch/Analytics/edit/main/README.md)
-  
+   - [A6 Segmentation (retail transactions and behavioral segmentation)](https://colab.research.google.com/drive/1t18yewxXmlPQx861vljGDk2jIjOkt78L?authuser=2) 
